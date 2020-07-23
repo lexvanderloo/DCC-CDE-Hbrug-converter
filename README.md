@@ -1,6 +1,7 @@
 # CDE-Hbrug-converter-DCC-
 Stuurt een DCC-gebaseerd CDE-signaal naar een Hbrug. Vormt daarmee een goedkope Booster voor DCC
 
+LET OP: NOG NIET GETEST
 V11 is zojuist terug van de printfabriek en wordt binnenkort getest.
 
 De bestanden zijn voor Kicad v5
